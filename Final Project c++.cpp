@@ -21,7 +21,7 @@ using namespace std;
 //Employee salary in line no. 1462
 // case 3 in line no. 1499
 //Manager login in line no. 1524
-//Manager pay in line no. 1627 
+//Manager pay in line no. 1627  
 //call stock function in line no. 1662
 // Billing(int L) funcTion in line no. 82
 // case 4 in line no. 1668
